@@ -17,3 +17,6 @@ code：课程的代码（Jupyter notebook格式）
 
 video：课程的视频
 
+
+
+PPT的百度云地址（链接：https://pan.baidu.com/s/1AW7P8dZfGMBgveBygmJlqg ，提取码：6r80 ）
