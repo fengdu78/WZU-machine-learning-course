@@ -15,7 +15,9 @@
 
 ## 视频目录
 
-[第一课](https://mp.weixin.qq.com/s/dnAa6JoFK2QsAOUCH972GA)
+[第一课绪论](https://mp.weixin.qq.com/s/dnAa6JoFK2QsAOUCH972GA)
 
-[第二课](https://mp.weixin.qq.com/s/drZ3knT7mZMch-a5cTeljg)
+[第二课回归](https://mp.weixin.qq.com/s/drZ3knT7mZMch-a5cTeljg)
+
+[第三课逻辑回归](https://mp.weixin.qq.com/s/ckwOIm8lBN-aQiMPekk28w)
 

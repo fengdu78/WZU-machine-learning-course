@@ -20,3 +20,5 @@ video：课程的视频
 
 
 PPT的百度云地址（链接：https://pan.baidu.com/s/1AW7P8dZfGMBgveBygmJlqg ，提取码：6r80 ）
+
+内容首发于微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
