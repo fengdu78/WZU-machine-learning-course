@@ -21,3 +21,5 @@
 
 [第三课逻辑回归](https://mp.weixin.qq.com/s/ckwOIm8lBN-aQiMPekk28w)
 
+[第四课朴素贝叶斯](https://mp.weixin.qq.com/s/XC1SfslZYooUdNvW2zW0RQ)
+
