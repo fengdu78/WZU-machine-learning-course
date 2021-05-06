@@ -24,3 +24,7 @@
 [第四课朴素贝叶斯](https://mp.weixin.qq.com/s/XC1SfslZYooUdNvW2zW0RQ)
 
 [第五课机器学习实践](https://mp.weixin.qq.com/s/HDK-60T3dRLHEAAt4BT6ng)
+
+[第六课KNN算法](https://mp.weixin.qq.com/s/cRe1-ky7XVvhQtD3_3JSuw)
+
+[第七章决策树](https://mp.weixin.qq.com/s/ZsQAg2LZX9a71XeKYKSCUQ)
