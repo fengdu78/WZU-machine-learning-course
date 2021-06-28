@@ -1,0 +1,29 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="Site EUI (kBtu/ft²) <= 0.103\nfriedman_mse = 1.0\nsamples = 6622\nvalue = 0.015", fillcolor="#f2bf9a"] ;
+1 [label="Weather Normalized Site Electricity Intensity (kWh/ft²) <= 0.085\nfriedman_mse = 0.903\nsamples = 270\nvalue = 0.311", fillcolor="#f0b68c"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Largest Property Use Type_Multifamily Housing <= 0.5\nfriedman_mse = 0.633\nsamples = 193\nvalue = 0.606", fillcolor="#eead7e"] ;
+1 -> 2 ;
+3 [label="(...)", fillcolor="#C0C0C0"] ;
+2 -> 3 ;
+10 [label="(...)", fillcolor="#C0C0C0"] ;
+2 -> 10 ;
+15 [label="Year Built <= 0.853\nfriedman_mse = 0.816\nsamples = 77\nvalue = -0.429", fillcolor="#f4ccae"] ;
+1 -> 15 ;
+16 [label="(...)", fillcolor="#C0C0C0"] ;
+15 -> 16 ;
+23 [label="(...)", fillcolor="#C0C0C0"] ;
+15 -> 23 ;
+28 [label="Weather Normalized Site Electricity Intensity (kWh/ft²) <= 0.003\nfriedman_mse = 1.0\nsamples = 6352\nvalue = 0.003", fillcolor="#f2bf9a"] ;
+0 -> 28 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+29 [label="friedman_mse = 0.691\nsamples = 9\nvalue = 0.365", fillcolor="#f0b489"] ;
+28 -> 29 ;
+30 [label="log_Water Intensity (All Water Sources) (gal/ft²) <= 0.139\nfriedman_mse = 1.0\nsamples = 6343\nvalue = 0.002", fillcolor="#f2bf9a"] ;
+28 -> 30 ;
+31 [label="(...)", fillcolor="#C0C0C0"] ;
+30 -> 31 ;
+32 [label="(...)", fillcolor="#C0C0C0"] ;
+30 -> 32 ;
+}
