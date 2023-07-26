@@ -25,6 +25,6 @@ video：课程的视频
 
 DeepLearning：《深度学习》课程的ppt
 
-PPT的百度云地址（链接: https://pan.baidu.com/s/1xjHdEpg6uqe27I_XltAn_w 提取码: ikhf ）
+PPT的百度云地址（链接：https://pan.baidu.com/s/1uC_xvrtFtqiNgZplevomPw?pwd=c05l 提取码：c05l ）
 
 内容首发于微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
