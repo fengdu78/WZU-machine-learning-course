@@ -1,7 +1,7 @@
 
 # 机器学习课程-温州大学
 
-本学期我给研究生上机器学习课程，我把课件分享下，后续陆续更新。
+黄海广老师主讲的机器学习课程后续陆续更新。
 
 课程登陆了中国大学慕课平台，已经在2021年9月6日开课，通常一年按照正常学期开课两次。
 
@@ -23,8 +23,8 @@ code：课程的代码（Jupyter notebook格式）
 
 video：课程的视频
 
-DeepLearning：《深度学习》课程的ppt
+DeepLearning：《深度学习》课程的ppt（pdf版本）
 
-PPT的百度云地址（链接：https://pan.baidu.com/s/1uC_xvrtFtqiNgZplevomPw?pwd=c05l 提取码：c05l ）
+PPT的pdf版本百度云地址（链接：https://pan.baidu.com/s/1uC_xvrtFtqiNgZplevomPw?pwd=c05l 提取码：c05l ）
 
 内容首发于微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
