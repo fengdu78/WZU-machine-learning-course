@@ -42,6 +42,8 @@ DeepLearning：《深度学习》课程的ppt（pdf版本）
 
 https://pan.baidu.com/s/1r7bgOa_4YYqdYax5aevRsA?pwd=pcmf
 
-解压密码：haiguang2000
+解压密码：公众号回复“原版课件密码”可以获取下载地址
 
-内容首发于微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
+![gongzhong](images/gongzhong.jpg)
+
+内容首发于微信公众号：机器学习初学者 
