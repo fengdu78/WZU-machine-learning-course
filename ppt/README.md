@@ -11,8 +11,7 @@
 
 https://pan.baidu.com/s/1r7bgOa_4YYqdYax5aevRsA?pwd=pcmf
 
-解压密码见文章：https://mp.weixin.qq.com/s/A56iA8CN21noaw5xtOnOIg
-
+解压密码：haiguang2000
 如果是大学教师，可以发邮件给黄海广老师索取课程教学大纲、教学进度、习题等资料。
 
 （haiguang2000@wzu.edu.cn，请用edu邮箱发，告知姓名学校，仅用于教学目的，请勿用于商业用途）
